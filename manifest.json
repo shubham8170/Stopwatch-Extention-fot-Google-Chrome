@@ -1,0 +1,10 @@
+{
+    "name": "stop watch",
+    "version": "0.0.1",
+    "description": "a stopwatch helps you to check your activity and speed",
+    "manifest_version": 2,
+    "browser_action": {
+        "default_popup": "watch.html",
+        "default_icon": "logo.png"
+    }
+}
